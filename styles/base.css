@@ -2,12 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500&display=swap');
 
 :root {
-    --cor1: hsl(14, 45%, 36%);
-    --cor2: hsl(332, 51%, 32%);
-    --cor3: hsl(20, 1%, 50%);
-    --cor4: hsl(330, 100%, 98%);
-    --cor5: hsl(30, 10%, 34%);
-    --cor6: hsl(14, 45%, 36%);
+    --cor1: hsl(332, 51%, 32%);
+    --cor2: hsl(20, 1%, 50%);
+    --cor3: hsl(330, 100%, 98%);
+    --cor4: hsl(30, 10%, 34%);
+    --cor5: hsl(14, 45%, 36%);
     --fonte-primaria: 'Young Serif', serif;
     --fonte-secundaria: 'Outfit', sans-serif;
     --tamanho-fonte: 16px;

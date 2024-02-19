@@ -15,7 +15,7 @@
 
 .cabecalho__descricao {
     font-family: var(--fonte-secundaria);
-    color: var(--cor3);
+    color: var(--cor2);
     line-height: 20px;
 }
 
@@ -32,7 +32,7 @@
     .cabecalho__imagem {
         width: 70vw;
         text-align: center;
-        border: 2px solid var(--cor6);
+        border: 2px solid var(--cor5);
         border-radius: 20px;
     }
 
