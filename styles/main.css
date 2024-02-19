@@ -6,7 +6,7 @@
 /* Seção de tempo de preparo */
 .conteudo__preparo {
     max-width: 450px;
-    margin: 0 auto;
+    margin: 2rem auto;
     padding: 1rem;
     font-family: var(--fonte-secundaria);
     background-color: var(--cor3);
@@ -94,7 +94,7 @@
 .nutricao__tabela {
     font-family: var(--fonte-secundaria);
     padding: 2rem;
-    margin: 0 auto;
+    margin: 5rem auto;
     border: 2px solid var(--cor5);
     border-radius: 16px;
 }
@@ -115,7 +115,7 @@
 
 
 /* Media query a partir da viewport de tablet */
-@media (min-width: 750px) {
+@media (min-width: 800px) {
 
     .conteudo__ingredientes,
     .conteudo__instrucoes,
@@ -126,12 +126,7 @@
     .conteudo__preparo {
         max-width: 40vw;
     }
-
-    .preparo__titulo,
-    .lista-etapas__item {
-        text-align: initial;
-    }
-
+    
     .nutricao__tabela,
     .nutricao__tabela hr {
         max-width: 50vw;

@@ -1,7 +1,7 @@
 .rodape {
     font-family: var(--fonte-secundaria);
     text-align: center;
-    border-top: 2px solid var(--cor6);
+    border-top: 2px solid var(--cor5);
     margin-top: 1rem;
     padding: 1rem;
 }
