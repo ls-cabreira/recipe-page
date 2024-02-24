@@ -58,10 +58,6 @@
     list-style-type: disc;
 }
 
-.instrucoes__lista-passos {
-    list-style-type: decimal;
-}
-
 .lista-produtos__item,
 .lista-passos__item {
     margin: 1rem 0;
